@@ -1,0 +1,15 @@
+Alex Ebrahimi (ajebrahi)
+Brent Lee (blee96)
+
+TAR
+
+We need functions for each of the supported options:
+
+c create an archive
+t print contents of an archive
+x extract contents of an archive
+v increases verbosity
+f specifies archive filename
+S be strict about stands of compliance
+
+
